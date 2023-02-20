@@ -1,3 +1,3 @@
 # OBI
 
-Repository that maintain the OpenBus Interface spec
+Repository that maintains the OpenBus Interface spec
